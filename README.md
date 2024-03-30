@@ -2,3 +2,6 @@
 <p> ipinfo e um bot para telegram de verifição de endereço 
 de maquina ou seja o ip 
 </p>
+
+# token 
+bot = telebot.TeleBot("token")
