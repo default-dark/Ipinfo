@@ -6,4 +6,5 @@ de maquina ou seja o ip nada mais isso
 dependencia 
 
 pip install rich 
+
 pip install pyTelegramBotAPI
