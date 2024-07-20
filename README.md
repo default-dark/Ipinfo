@@ -3,4 +3,6 @@
 <p> ipinfo e um bot para telegram de verifição de endereço 
 de maquina ou seja o ip nada mais isso 
 </p>
+# install 
+pip install rich 
 
