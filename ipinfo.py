@@ -39,7 +39,7 @@ def main_menu(chatid):
 /geoip - pesquisa de ip 📶
                      """)
     markup = types.InlineKeyboardMarkup(row_width=2)
-    github = types.InlineKeyboardButton("👨‍💻github",url="https://github.com/lammerburro")
+    github = types.InlineKeyboardButton("👨‍💻github",url="https://github.com/default-dark")
     markup.add(github)
     bot.send_message(chatid.chat.id,":) minha github !!",reply_markup=markup)
 
